@@ -5,7 +5,6 @@ import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
 import { motion } from "framer-motion";
 import { fadeIn } from "../variant";
-import { Link } from "react-scroll";
 import ContactButtons from "../ui/ContactButtons";
 
 // Define the Iprops interface if needed in the future
